@@ -31,7 +31,7 @@ function App() {
           </div>
           <div>
             <h2 className="text-xl font-semibold mb-4 flex items-center">
-              <DollarSign className="mr-2" /> Summary
+              Summary
             </h2>
             <Summary transactions={transactions} />
           </div>
